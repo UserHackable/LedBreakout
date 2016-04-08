@@ -11,6 +11,7 @@ These LED Breakouts are designed to be mini shields that you can simply plug int
 * (1.8000, 0.7750) inches
 * (45.7203, 19.6850) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -27,6 +28,7 @@ These LED Breakouts are designed to be mini shields that you can simply plug int
 * (1.8500, 1.1000) inches
 * (46.9900, 27.9400) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
@@ -43,6 +45,7 @@ These LED Breakouts are designed to be mini shields that you can simply plug int
 * (1.8000, 0.8000) inches
 * (45.7200, 20.3200) mm
 
+[gerbers](%*_gerber.zip)
 
 
 | Front | Back |
